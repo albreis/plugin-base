@@ -1,0 +1,1 @@
+window.plugin_base = plugin => new PluginBase(plugin);

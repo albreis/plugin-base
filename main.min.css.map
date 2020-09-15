@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.styl"],"names":[],"mappings":"AAAA,KACE,WAAW,KACb,oBACE,WAAW,WACb,kBACE,YAAuB,uBACvB,MAAM,KACN,OAAO,EACP,qBACE,OAAO","file":"main.min.css","sourcesContent":["body\r\n  background red\r\n.plugin-name-here *\r\n  box-sizing border-box\r\n.plugin-name-here\r\n  font-family 'Open Sans', sans-serif\r\n  color #000\r\n  margin 0\r\n  h1\r\n    margin 0"]}
